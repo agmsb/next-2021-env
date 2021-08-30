@@ -1,0 +1,8 @@
+spec:
+  containers:
+  - image: IMAGE_URL
+    command:
+    - COMMAND
+    args:
+      - "ARG1"
+      - "ARG-N"
